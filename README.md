@@ -16,3 +16,6 @@
   <p>So with the help of proxy, I will write my own <b>GET IMPLEMENTATION!!!</b></p>
   <p>That is, I will <b>TRAP</b> the default <b>GET</b> behaviour and use my implementation. Have a look at proxy.js to see this in action.</p>
 
+ <h3>More</h3>
+ <p> For more, have a look at <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Meta_programming">Proxies and Reflect</a>. Before writing your own handler and traps, look at the table to make sure you are not violating ivariants</p>
+
